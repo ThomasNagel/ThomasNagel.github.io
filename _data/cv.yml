@@ -1,0 +1,46 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Tom Nagel
+    - name: Date of Birth
+      value: 9th August 2003
+    - name: Languages
+      value: English, Dutch
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Highschool diploma
+      institution: Willem Lodewijk Gymnasium
+      year: 2015 - 2021
+      description:
+        - VWO
+        - N&T
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Adult
+      institution: Life
+      year: 2021 - now
+      description:
+        - Cook
+        - Clean
+        - Laundry
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/ThomasNagel">My github account</a>
+      year: 2017-now
+      description: Some random projects. Don't look at the code or you'll burn your eyes...
+
+- title: Other Interests
+  type: nested_list
+  contents:
+    - title: Hobbies
+      items: 
+        - Programming
+        - Video Games
+        - Hanging out
