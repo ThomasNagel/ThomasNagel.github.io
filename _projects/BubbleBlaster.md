@@ -26,7 +26,7 @@ This game was made in pygame.
 Every frame a new background image is drawn and all the objects in the game are drawn over it.
 This new image is the displayed on the screen.
 
-<div class="row">
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/BubbleBug.gif" title="Game with bug" class="img-fluid rounded z-depth-1" %}
     </div>
